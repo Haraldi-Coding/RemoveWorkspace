@@ -19,3 +19,5 @@ e.g. you have an assessment report template in the same folder as the .exe file,
 If you would like to name also the destination file, do the call with two parameters, the source file and the destination file. (Please make sure that the destination file does not exist.)
 
 Have fun!
+
+Harald
