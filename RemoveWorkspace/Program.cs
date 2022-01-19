@@ -32,7 +32,7 @@ namespace RemoveWorkspace
                     Console.WriteLine(filenameToSave);
                     break;
                 default:
-                    Console.WriteLine("Number of arguments is not matching. Please enter filepath\filename and/or in addition the destination");
+                    Console.WriteLine(@"Number of arguments is not matching. Please enter filepath\filename and/or in addition the destination");
                     return;
             }
 
